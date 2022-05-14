@@ -18,8 +18,7 @@
 n can be whatever we like 
 
 # Report
-The Report is posted here Link:[]
-
+The Report is posted here Link[https://twitter.com/tanaydesaii/status/1525609588099190784?t=dwc_3-5XKqVNKUtj9FMdOw&s=19]
 * Global Electricity consumption from 2000-2021 
 * % of energy thate came fron Renewables + Nuclear 
 
