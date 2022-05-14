@@ -45,4 +45,7 @@ Area of Solar Panels Needed to power the earth
 * Gobal Electricity Production by fossil fuels,nuclear and renewables (1985-2021)
 
 Source:
-Ourworldindata:https://ourworldindata.org/
+* Ourworldindata:https://ourworldindata.org/
+* Tesla Solar
+* Wikipedia and Google maps 
+
