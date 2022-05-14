@@ -17,6 +17,16 @@
 * Creating a class which will predict reneable(nuclear+renewables) electricty production n number of years into the future
 n can be whatever we like 
 
+# Report
+The Report is posted here Link:[]
+
+Global Electricity consumption from 2000-2021 
+% of energy thate came fron Renewables + Nuclear 
+<img src="EnergyChartsReport_page-0002.jpg">
+
+Gobal Electricty Production from 2015-2050
+<img src="EnergyChartsReport_page-0001.jpg">
+
 
 # Datasets 
 * Gobal Electricty Consumption by source (1985-2021)
