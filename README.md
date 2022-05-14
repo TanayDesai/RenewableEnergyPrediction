@@ -22,9 +22,11 @@ The Report is posted here Link:[]
 
 Global Electricity consumption from 2000-2021 
 % of energy thate came fron Renewables + Nuclear 
+
 <img src="EnergyChartsReport_page-0002.jpg">
 
 Gobal Electricty Production from 2015-2050
+
 <img src="EnergyChartsReport_page-0001.jpg">
 
 
