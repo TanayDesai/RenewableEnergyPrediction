@@ -20,14 +20,24 @@ n can be whatever we like
 # Report
 The Report is posted here Link:[]
 
-Global Electricity consumption from 2000-2021 
-% of energy thate came fron Renewables + Nuclear 
+* Global Electricity consumption from 2000-2021 
+* % of energy thate came fron Renewables + Nuclear 
 
 <img src="EnergyChartsReport_page-0002.jpg">
 
-Gobal Electricty Production from 2015-2050
+* Gobal Electricty Production from 2015-2050
 
 <img src="EnergyChartsReport_page-0001.jpg">
+
+* 26.92Billion Tesla 400W Solar Panels on 9Hrs of Sunlight. Roughly 3.6KWh/day per unit.
+
+* 798x Palo Verde Nuclear power plants at full 3937MW capacity for 24Hrs x 365 days. Roughly 34.5TWh/year per plant.
+
+Area of Solar Panels Needed to power the earth 
+<img src="Screenshot 2022-05-15 024822.png">
+<img src="Screenshot 2022-05-15 024726.png">
+<img src="Screenshot 2022-05-15 024641.png">
+
 
 
 # Datasets 
